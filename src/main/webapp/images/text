@@ -1,0 +1,4 @@
+.buttons {  font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif; font-size: 13px; font-style: normal; font-weight: normal; color: #FFFFFF}
+.sitetext {  font-family: "Trebuchet MS", Arial, Verdana, Helvetica, ; font-size: 14px; font-style: normal; font-weight: normal; color: #000000}
+.ur {  font-family: "Comic Sans MS"; font-size: 10px; color: #FFFFFF; font-style: italic; font-weight: bold}
+.buttons1 {  font-family: "Trebuchet MS", Verdana, Arial; font-size: 13px; font-weight: normal; color: #000000}

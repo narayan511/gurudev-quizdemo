@@ -1,0 +1,5 @@
+.header {  background-image: url(header.jpg); background-repeat: repeat-x; background-position: 0px 0px}
+.butbkimag {  background-image: url(bk.gif); background-repeat: repeat-y; background-position: 0px 0px}
+.botstrip {  background-image: url(botstrip.gif); background-repeat: repeat-x; background-position: 0px 0px}
+.mainbk {  background-image: url(mainbk.gif); background-repeat: repeat-y; background-position: 0px 0px}
+.bktutos {  background-image: url(bk_tutos.gif); background-repeat: repeat-y; background-position: 0px 0px}
